@@ -5,11 +5,11 @@
 
 # Responsive Font Sizes (RFS) for Bootstrap 4
 
-Bootstrap 4.3 introduced Responsive Font Sizes (RFS) which you can enable in the SCSS compiler. If you're compiling the CSS for your project I highly recommend turning it on.
+Bootstrap 4.3 introduced [Responsive Font Sizes (RFS)](https://getbootstrap.com/docs/4.3/content/typography/#responsive-font-sizes) which you can enable in the SCSS compiler. If you're compiling the CSS for your project I highly recommend turning it on.
 
-If you're loading Bootstrap from a CDN though you won't be able to take advantage of those RFS rules. This repo offers a quick fix. It's essentially a tiny CSS file with the relevant changes.
+If you're loading Bootstrap from a CDN though you won't be able to take advantage of those RFS rules. This repo offers a quick fix - a tiny CSS file with the relevant changes.
 
-### Usage
+## Usage
 
 A couple of options are available:
 
