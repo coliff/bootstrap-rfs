@@ -16,10 +16,10 @@ A couple of options are available:
 - **Copy the CSS rules to your site**
 
 1.  Copy the `responsive-rfs.css` rules to your site's CSS
-2.  Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="responsive-rfs.css" media="screen and (max-width: 1200px)" rel="stylesheet">`
+2.  Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="responsive-rfs.css" rel="stylesheet">`
 
 - **Use a CDN**
 
-1. Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-rfs/responsive-rfs.min.css" media="screen and (max-width: 1200px)" rel="stylesheet">`
+1. Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-rfs/responsive-rfs.min.css" rel="stylesheet">`
 
-Note: the `media="screen and (max-width: 1200px)"` will only load the stylesheet on screens up to 1200px, saving a HTTP request for larger screens. You can omit this from the HTML though if you wish. The CSS has the media query included as well.
+Optional: You can add `media="screen and (max-width: 1200px)"` so it will only load the CSS file on screens up to 1200px, saving a HTTP request for users with larger screens. The CSS has the 'max-width: 1200px' media query included as well so this is optional.
