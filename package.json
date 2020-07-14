@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-rfs",
+  "version": "4.3.1",
+  "private": true,
+  "description": "Responsive Font Sizes (RFS) for Bootstrap 4 CSS",
+  "keywords": [
+    "bootstrap",
+    "rfs",
+    "css"
+  ],
+  "homepage": "https://github.com/coliff/bootstrap-rfs",
+  "bugs": {
+    "url": "https://github.com/coliff/bootstrap-rfs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coliff/bootstrap-rfs.git"
+  },
+  "license": "MIT",
+  "author": "Christian Oliff (https://christianoliff.com)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

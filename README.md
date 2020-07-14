@@ -15,8 +15,8 @@ A couple of options are available:
 
 - **Copy the CSS rules to your site**
 
-1.  Copy the `bootstrap-rfs.css` rules to your site's CSS
-2.  Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="bootstrap-rfs.css" rel="stylesheet">`
+1. Copy the `bootstrap-rfs.css` rules to your site's CSS
+2. Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="bootstrap-rfs.css" rel="stylesheet">`
 
 - **Use a CDN**
 
