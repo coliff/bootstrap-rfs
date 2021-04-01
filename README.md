@@ -22,7 +22,7 @@ A couple of options are available:
 
 1. Add the following to your sites `<head>` (after loading Bootstrap's) - `<link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-rfs/bootstrap-rfs.css" rel="stylesheet">`
 
-Optional: You can add `media="screen and (max-width: 1200px)"` so it will only load the CSS file on screens up to 1200px, saving a HTTP request for users with larger screens. The CSS has the 'max-width: 1200px' media query included as well so this is optional.
+Optional: You can add `media="screen and (max-width: 1200px)"` so it will load the CSS asynchronously. The CSS has the 'max-width: 1200px' media query included as well so this is optional.
 
 ## Demo
 
